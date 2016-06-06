@@ -1,0 +1,14 @@
+layout_spectrum: 0.2898923885077238
+typography_spectrum: 0.7799642828758806
+color:
+  brandStrength: 0.6323894744273275
+  lightness: 0.1207107100635767
+  saturation: 0.34129106090404093
+  rhythmicContrast: 0.27693054382689297
+  brandColors:
+    - '#FF6600'
+    - '#C13B00'
+    - '#5E6D70'
+    - '#424E4F'
+    - '#1B1D1E'
+name: ACME virtual
