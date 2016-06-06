@@ -6,9 +6,9 @@ color:
   saturation: 0.34129106090404093
   rhythmicContrast: 0.27693054382689297
   brandColors:
-    - '#FF6600'
-    - '#C13B00'
-    - '#5E6D70'
-    - '#424E4F'
-    - '#1B1D1E'
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: ACME virtual
